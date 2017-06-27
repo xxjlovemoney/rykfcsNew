@@ -1,0 +1,7 @@
+
+platform :ios, '8.0'
+
+target '融云客服测试' do
+pod 'IQKeyboardManager'
+pod 'RongCloudIM/IMLib'
+end
