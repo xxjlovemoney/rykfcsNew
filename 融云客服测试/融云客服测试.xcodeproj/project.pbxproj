@@ -29,6 +29,19 @@
 		AC5C6D991F023A7700FF13E4 /* YZTextAttachment.m in Sources */ = {isa = PBXBuildFile; fileRef = AC5C6D8D1F023A7700FF13E4 /* YZTextAttachment.m */; };
 		AC5C6D9C1F023C9300FF13E4 /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = AC5C6D9B1F023C9300FF13E4 /* UIView+Frame.m */; };
 		AC5C6DA01F0251CA00FF13E4 /* ChatTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = AC5C6D9F1F0251CA00FF13E4 /* ChatTableViewCell.m */; };
+		AC5E085D1F03448500206E9D /* RCDCustomerServiceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC5E085C1F03448500206E9D /* RCDCustomerServiceViewController.m */; };
+		AC5E08621F03587C00206E9D /* chat smile.png in Resources */ = {isa = PBXBuildFile; fileRef = AC5E085F1F03587C00206E9D /* chat smile.png */; };
+		AC5E08631F03587C00206E9D /* chat smile@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AC5E08601F03587C00206E9D /* chat smile@2x.png */; };
+		AC5E08641F03587C00206E9D /* chat smile@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AC5E08611F03587C00206E9D /* chat smile@3x.png */; };
+		AC5E08681F0383F700206E9D /* 名字注意修改.png in Resources */ = {isa = PBXBuildFile; fileRef = AC5E08651F0383F700206E9D /* 名字注意修改.png */; };
+		AC5E08691F0383F700206E9D /* 名字注意修改@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AC5E08661F0383F700206E9D /* 名字注意修改@2x.png */; };
+		AC5E086A1F0383F700206E9D /* 名字注意修改@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AC5E08671F0383F700206E9D /* 名字注意修改@3x.png */; };
+		AC5E086E1F03840A00206E9D /* input area.png in Resources */ = {isa = PBXBuildFile; fileRef = AC5E086B1F03840A00206E9D /* input area.png */; };
+		AC5E086F1F03840A00206E9D /* input area@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AC5E086C1F03840A00206E9D /* input area@2x.png */; };
+		AC5E08701F03840A00206E9D /* input area@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AC5E086D1F03840A00206E9D /* input area@3x.png */; };
+		AC5E08741F0388A100206E9D /* BG.png in Resources */ = {isa = PBXBuildFile; fileRef = AC5E08711F0388A100206E9D /* BG.png */; };
+		AC5E08751F0388A100206E9D /* BG@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AC5E08721F0388A100206E9D /* BG@2x.png */; };
+		AC5E08761F0388A100206E9D /* BG@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AC5E08731F0388A100206E9D /* BG@3x.png */; };
 		F527B3071CDF1CA17F12D14D /* libPods-融云客服测试.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 758CA70FF18AFF2A39D4EA0F /* libPods-融云客服测试.a */; };
 /* End PBXBuildFile section */
 
@@ -73,6 +86,20 @@
 		AC5C6D9D1F02429F00FF13E4 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 		AC5C6D9E1F0251CA00FF13E4 /* ChatTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChatTableViewCell.h; sourceTree = "<group>"; };
 		AC5C6D9F1F0251CA00FF13E4 /* ChatTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChatTableViewCell.m; sourceTree = "<group>"; };
+		AC5E085B1F03448500206E9D /* RCDCustomerServiceViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCDCustomerServiceViewController.h; sourceTree = "<group>"; };
+		AC5E085C1F03448500206E9D /* RCDCustomerServiceViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCDCustomerServiceViewController.m; sourceTree = "<group>"; };
+		AC5E085F1F03587C00206E9D /* chat smile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chat smile.png"; sourceTree = "<group>"; };
+		AC5E08601F03587C00206E9D /* chat smile@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chat smile@2x.png"; sourceTree = "<group>"; };
+		AC5E08611F03587C00206E9D /* chat smile@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chat smile@3x.png"; sourceTree = "<group>"; };
+		AC5E08651F0383F700206E9D /* 名字注意修改.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "名字注意修改.png"; sourceTree = "<group>"; };
+		AC5E08661F0383F700206E9D /* 名字注意修改@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "名字注意修改@2x.png"; sourceTree = "<group>"; };
+		AC5E08671F0383F700206E9D /* 名字注意修改@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "名字注意修改@3x.png"; sourceTree = "<group>"; };
+		AC5E086B1F03840A00206E9D /* input area.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "input area.png"; sourceTree = "<group>"; };
+		AC5E086C1F03840A00206E9D /* input area@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "input area@2x.png"; sourceTree = "<group>"; };
+		AC5E086D1F03840A00206E9D /* input area@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "input area@3x.png"; sourceTree = "<group>"; };
+		AC5E08711F0388A100206E9D /* BG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BG.png; sourceTree = "<group>"; };
+		AC5E08721F0388A100206E9D /* BG@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BG@2x.png"; sourceTree = "<group>"; };
+		AC5E08731F0388A100206E9D /* BG@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BG@3x.png"; sourceTree = "<group>"; };
 		E6D4798CDE2F91F805E52B0F /* Pods-融云客服测试.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-融云客服测试.debug.xcconfig"; path = "Pods/Target Support Files/Pods-融云客服测试/Pods-融云客服测试.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -118,6 +145,7 @@
 		AC5C6D5A1F022F0200FF13E4 /* 融云客服测试 */ = {
 			isa = PBXGroup;
 			children = (
+				AC5E085E1F03587C00206E9D /* image */,
 				AC5C6D791F023A7700FF13E4 /* YZEmotionKeyboard */,
 				AC5C6D721F02327E00FF13E4 /* InputView */,
 				AC5C6D5E1F022F0200FF13E4 /* AppDelegate.h */,
@@ -132,6 +160,7 @@
 				AC5C6D671F022F0200FF13E4 /* Assets.xcassets */,
 				AC5C6D691F022F0200FF13E4 /* LaunchScreen.storyboard */,
 				AC5C6D6C1F022F0200FF13E4 /* Info.plist */,
+				AC5E085A1F03448500206E9D /* CustomVC */,
 				AC5C6D5B1F022F0200FF13E4 /* Supporting Files */,
 			);
 			path = "融云客服测试";
@@ -191,6 +220,34 @@
 			path = Resource;
 			sourceTree = "<group>";
 		};
+		AC5E085A1F03448500206E9D /* CustomVC */ = {
+			isa = PBXGroup;
+			children = (
+				AC5E085B1F03448500206E9D /* RCDCustomerServiceViewController.h */,
+				AC5E085C1F03448500206E9D /* RCDCustomerServiceViewController.m */,
+			);
+			path = CustomVC;
+			sourceTree = "<group>";
+		};
+		AC5E085E1F03587C00206E9D /* image */ = {
+			isa = PBXGroup;
+			children = (
+				AC5E08711F0388A100206E9D /* BG.png */,
+				AC5E08721F0388A100206E9D /* BG@2x.png */,
+				AC5E08731F0388A100206E9D /* BG@3x.png */,
+				AC5E086B1F03840A00206E9D /* input area.png */,
+				AC5E086C1F03840A00206E9D /* input area@2x.png */,
+				AC5E086D1F03840A00206E9D /* input area@3x.png */,
+				AC5E08651F0383F700206E9D /* 名字注意修改.png */,
+				AC5E08661F0383F700206E9D /* 名字注意修改@2x.png */,
+				AC5E08671F0383F700206E9D /* 名字注意修改@3x.png */,
+				AC5E085F1F03587C00206E9D /* chat smile.png */,
+				AC5E08601F03587C00206E9D /* chat smile@2x.png */,
+				AC5E08611F03587C00206E9D /* chat smile@3x.png */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
 		F125F52607401527857F437C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -233,6 +290,7 @@
 				TargetAttributes = {
 					AC5C6D571F022F0200FF13E4 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = QBNK5RXUG7;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,12 +320,24 @@
 			files = (
 				AC5C6D6B1F022F0200FF13E4 /* LaunchScreen.storyboard in Resources */,
 				AC5C6D8E1F023A7700FF13E4 /* Emotion.bundle in Resources */,
+				AC5E08701F03840A00206E9D /* input area@3x.png in Resources */,
+				AC5E08631F03587C00206E9D /* chat smile@2x.png in Resources */,
+				AC5E08681F0383F700206E9D /* 名字注意修改.png in Resources */,
 				AC5C6D8F1F023A7700FF13E4 /* emotion.plist in Resources */,
+				AC5E08621F03587C00206E9D /* chat smile.png in Resources */,
 				AC5C6D941F023A7700FF13E4 /* YZEmotionCell.xib in Resources */,
+				AC5E086F1F03840A00206E9D /* input area@2x.png in Resources */,
+				AC5E086E1F03840A00206E9D /* input area.png in Resources */,
 				AC5C6D681F022F0200FF13E4 /* Assets.xcassets in Resources */,
 				AC5C6D961F023A7700FF13E4 /* YZEmotionKeyboard.xib in Resources */,
+				AC5E08761F0388A100206E9D /* BG@3x.png in Resources */,
 				AC5C6D901F023A7700FF13E4 /* emotionToText.plist in Resources */,
 				AC5C6D661F022F0200FF13E4 /* Main.storyboard in Resources */,
+				AC5E08741F0388A100206E9D /* BG.png in Resources */,
+				AC5E086A1F0383F700206E9D /* 名字注意修改@3x.png in Resources */,
+				AC5E08641F03587C00206E9D /* chat smile@3x.png in Resources */,
+				AC5E08751F0388A100206E9D /* BG@2x.png in Resources */,
+				AC5E08691F0383F700206E9D /* 名字注意修改@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -327,6 +397,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC5C6D971F023A7700FF13E4 /* YZEmotionManager.m in Sources */,
+				AC5E085D1F03448500206E9D /* RCDCustomerServiceViewController.m in Sources */,
 				AC5C6D931F023A7700FF13E4 /* YZEmotionCell.m in Sources */,
 				AC5C6D991F023A7700FF13E4 /* YZTextAttachment.m in Sources */,
 				AC5C6DA01F0251CA00FF13E4 /* ChatTableViewCell.m in Sources */,
@@ -462,8 +533,10 @@
 			baseConfigurationReference = E6D4798CDE2F91F805E52B0F /* Pods-融云客服测试.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = QBNK5RXUG7;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/融云客服测试/PrefixHeader.pch";
 				INFOPLIST_FILE = "融云客服测试/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "gaga.------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -475,8 +548,10 @@
 			baseConfigurationReference = 8CC545AD2823C162F0E560F3 /* Pods-融云客服测试.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = QBNK5RXUG7;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/融云客服测试/PrefixHeader.pch";
 				INFOPLIST_FILE = "融云客服测试/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "gaga.------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
